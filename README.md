@@ -8,8 +8,8 @@ Please send me an email at to rquest a copy of my resume.
 This GitHub account has projects that I have worked on in my free time.  I have another GitHub account that I use for projects I have worked on in college, which is located here https://github.com/AndrewERAU.  For information on my degree, experience, and previous jobs, please send me an email requesting a copy of my resume (see aboe section).
 
 # Projects
-I build a weather app using React, JSX (CJSX technically), CoffeeScript and SCSS.  Checkout the finished webpage here http://reactcurrentweather.herokuapp.com/.  Check out the source code here https://github.com/AndrewSverdrup/Udemy-ReactWeatherApp.
+I built a weather app using React, JSX (CJSX technically), CoffeeScript and SCSS.  Checkout the finished webpage here http://reactcurrentweather.herokuapp.com/.  Check out the source code here https://github.com/AndrewSverdrup/Udemy-ReactWeatherApp.
 
-
+I built a timer app using React, ... TODO.  Check out the finished webpage here https://udemyreacttimerapp.herokuapp.com/.  Check our the sourc code here ehttps://github.com/AndrewSverdrup/Udemy-ReactTimerApp.
 
 
