@@ -12,15 +12,15 @@ This GitHub account has projects that I have worked on in my free time.  I have 
 ### React Weather App
 I built a weather app using React, JSX (CJSX technically), CoffeeScript and SCSS.
 
-Checkout the finished webpage here http://reactcurrentweather.herokuapp.com/.
+Checkout the finished webpage here [http://reactcurrentweather.herokuapp.com/](http://reactcurrentweather.herokuapp.com/).
 
-Check out the source code here https://github.com/AndrewSverdrup/Udemy-ReactWeatherApp.
+Check out the source code here [https://github.com/AndrewSverdrup/Udemy-ReactWeatherApp](https://github.com/AndrewSverdrup/Udemy-ReactWeatherApp).
 
 ### React Timer App
 I built a timer app using React, JSX (CJSX technically), CoffeeScript, SCSS, Express, jQuery, Karma, Jasmine, and Webpack.
 
-Check out the finished webpage here https://udemyreacttimerapp.herokuapp.com/.
+Check out the finished webpage here [https://udemyreacttimerapp.herokuapp.com/](https://udemyreacttimerapp.herokuapp.com/).
 
-Check our the sourc code here https://github.com/AndrewSverdrup/Udemy-ReactTimerApp.
+Check our the sourc code here [https://github.com/AndrewSverdrup/Udemy-ReactTimerApp](https://github.com/AndrewSverdrup/Udemy-ReactTimerApp).
 
 
