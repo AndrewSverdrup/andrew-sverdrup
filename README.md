@@ -26,6 +26,13 @@ Check out the source code here [https://github.com/AndrewSverdrup/Udemy-ReactTim
 
 # College Projects
 
+### JavaScript Binary Tree Website
+I wrote code to implement a binary tree in JavaScript.  I then created a simple website using HTML/CSS and Bootstrap to allow interaction with the binary tree.
+
+Check out the finished webpage here [https://andrewerau.github.io/jsBinaryTree/](https://andrewerau.github.io/jsBinaryTree/).
+
+Check out the source code here [https://github.com/AndrewERAU/jsBinaryTree](https://github.com/AndrewERAU/jsBinaryTree).
+
 ### Ruby on Rails Binary Tree Website
 I wrote code to implement a binary tree in Ruby.  I then created a simple website using Rails to allow interaction with the binary tree.
 
