@@ -5,7 +5,7 @@ This is a GitHub Pages site, click [here](https://andrewsverdrup.github.io/resum
 Please send me an email at <andrewgolfer@outlook.com> to request a copy of my resume.
 
 ## Note
-This GitHub account has projects that I have worked on in my free time.  I have another GitHub account that I use for projects I have worked on in college, which is located here https://github.com/AndrewERAU.  For information on my degree, experience, and previous jobs, please send me an email requesting a copy of my resume (see above section).
+This GitHub account has projects that I have worked on in my free time.  I have another GitHub account that I use for projects I have worked on in college, which is located here [https://github.com/AndrewERAU](https://github.com/AndrewERAU).  For information on my degree, experience, and previous jobs, please send me an email requesting a copy of my resume (see above section).
 
 # Projects
 
