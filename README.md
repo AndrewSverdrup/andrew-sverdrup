@@ -1,23 +1,27 @@
 # Andrew Sverdrup's Portolio
 This is a GitHub Pages site, click [here](https://andrewsverdrup.github.io/resume-cv/) to see it!
 
-## Resume
-Please send me an email at <andrewgolfer@outlook.com> to request a copy of my resume.
+## Contact
+Want to get in touch? Send me an email at <andrewgolfer@outlook.com>.
 
-## Note
-This GitHub account has projects that I have worked on in my free time.  I have another GitHub account that I use for projects I have worked on in college, which is located here [https://github.com/AndrewERAU](https://github.com/AndrewERAU).  For information on my degree, experience, and previous jobs, please send me an email requesting a copy of my resume (see above section).
+# Live Projects (currently being used by companies/users)
 
-# Projects
+### Sverdrup Engineering Services
+I created a website for Sverdrup Engineering Services.  The site is a static site built with [Gatsby](https://gatsbyjs.org) and hosted with [Netlify](https://netlify.com).  Continuous deployments are done every time code is pushed to the repository (currently not an open-source repo).
+
+Checkout the finished webpage here [https://sverdrupservices.com](https://sverdrupservices.com).
+
+# Projects (done for fun/learning, no active users)
 
 ### React Weather App
-I built a weather app using React, JSX (CJSX technically), CoffeeScript and SCSS.
+I built a weather app using React, CJSX, CoffeeScript and SCSS.
 
 Check out the finished webpage here [http://reactcurrentweather.herokuapp.com/](http://reactcurrentweather.herokuapp.com/).
 
 Check out the source code here [https://github.com/AndrewSverdrup/Udemy-ReactWeatherApp](https://github.com/AndrewSverdrup/Udemy-ReactWeatherApp).
 
 ### React Timer App
-I built a timer app using React, JSX (CJSX technically), CoffeeScript, SCSS, Express, jQuery, Karma, Jasmine, and Webpack.
+I built a timer app using React, CJSX, CoffeeScript, SCSS, Express, jQuery, Karma, Jasmine, and Webpack.
 
 Check out the finished webpage here [https://udemyreacttimerapp.herokuapp.com/](https://udemyreacttimerapp.herokuapp.com/).
 
