@@ -5,7 +5,9 @@
 ### Sverdrup Engineering Services
 I created a website for Sverdrup Engineering Services.  The site is a static site built with [Gatsby](https://gatsbyjs.org) and hosted with [Netlify](https://netlify.com).  Continuous deployments are done every time code is pushed to the repository.
 
-Checkout the finished webpage here [https://www.sverdrupservices.com](https://www.sverdrupservices.com).
+Checkout the finished webpage here <a href="https://www.sverdrupservices.com" target="_blank">https://www.sverdrupservices.com</a>
+
+[https://www.sverdrupservices.com](https://www.sverdrupservices.com).
 
 # Fun/Learning Projects
 
