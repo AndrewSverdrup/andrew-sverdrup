@@ -1,3 +1,5 @@
+<p hidden>This is a GitHub Pages site, view it here https://andrewsverdrup.com!</p>
+
 ## Contact
 Want to get in touch? Send me an email at <andrewgolfer@outlook.com>.
 
