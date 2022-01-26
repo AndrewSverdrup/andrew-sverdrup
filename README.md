@@ -1,4 +1,4 @@
-<p hidden>This is a GitHub Pages site, view it here https://andrewsverdrup.com!</p>
+<p hidden>This is a GitHub Pages site, view it here https://andrewsverdrup.github.io/andrew-sverdrup!</p>
 
 # Live Projects
 
